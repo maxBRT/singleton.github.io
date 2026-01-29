@@ -5,5 +5,5 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
 
     site: 'https://maxbrt.github.io',
-    base: '/singleton.github.io',
+    base: '/singleton',
 });
